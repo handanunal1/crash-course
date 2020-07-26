@@ -1,2 +1,2 @@
 # Example Repository
-Sample repo.
+Sample repositry for crash course.
